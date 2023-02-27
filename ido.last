@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/max/.emacs.d/" . "lisp/")
+ ("/home/max/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/max/.emacs.d/"
+ "/home/max/"
+ "/home/max/.emacs.d/lisp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "global-keybinds.el"
+ "init.el"
+ "last.tex"
+ "test.lisp"
+ "buffer-management.el"
+ "window-management.el"
+ "window.el"
+ "eshell-scripts.el"
+ "eshell-config.el"
+ "scripts.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/max/.emacs.d/" (25593 31195 270013 802000) "window-management.el" "smex-config.el" "./" "lisp/" "init.el" "../" "editing-management.el" "settings.el" "eshell-scripts.el" "global-keybinds.el" "ido.last" "ido-config.el" "scripts.el" "eshell-config.el" "buffer-management.el" "auto-save-list/" "eshell/")
+
+ ("/home/max/" (25593 30957 203341 234000) ".fleet/" ".mysql_history" "UNTER_THEM.png" "Pictures/" "st/" "clones/" "databaseX/" "AndroidClient/" "rtags/" ".profile" "DB_TEST.properties" "SERVER_REAL/" "letstalk.safe2/" "]" "ooo.java" ".authinfo" "db_info/" "fridolin.c" "last.txt" "Videos/" ".space_emacs_latest_1/" ".mysql/" "emacs.png" ".spacemacs_safe" ".zcompdump-archp-5.9" "Desktop/" "test1.rep/" "SERVER3/" "hsqldb-2.7.1/" "test_database.script" ".vscode-oss/" "DB_TEST/" "latex/" ".zshrc" "db_info.log" ".config/" ".android/" "hsqlprefs.dat" "AndroidServerTest/" "petri2.xml" ".python_history" ".vim/" "IdeaProjects/" "clojure2/" "a.out" "MCT_KLAUSUR" "final_server1/" "hello.exs" ".#buf.lisp" "Android1/" "test.properties" ".zcompdump-archp-5.9.zwc" "test1.gpr" ".sbclrc" "latex_test/" ".wget-hsts" "TEST1/" "KNUTH/" "print.py" "cscope.out" "sensor.cpp~" "RubymineProjects/" "spacemacs_safe/" "VSAPP/" "BOOK/" ".pki/" ".platformio/" "clojure1/" "buf.lisp" "kde-plasma-backup/" "new.c" ".bashrc" "jjj/" ".ssh/" ".gdb_history" ".clang-format" "KLAUSUR/" "RUBY/" ".vscode/" ".clojure/" "cj/" ".zsh_history" ".bash_logout" ".espressif/" ".viminfo" ".templateengine/" "sv" "singleton1/" ".erlang.cookie" "Math.class" "test.script" "OLD/" "present2/" "emacs/" "m_emacs_1/" "stumpwm/" ".gdbinit" "test.lck" "justtolook/" ".zshrc.pre-oh-my-zsh" "last.tex" "$HOME/" ".oh-my-zsh/" "dependency-reduced-pom.xml" "db_info.script" "database-data.script" "app_vlast1/" "fuck.cpp" "dap-test/" "java-space-test/" ".emacs.d/" "snake3/" ".arduino15/" ".gitconfig" ".gdbinit.old" "new.tex" "RUST/" "db_info.tmp/" "test_database.tmp/" ".sly-mrepl-history" "test_database.log" "testing/" "database1/" ".doom.d/" "emacs3_safe/" "threads/" "hsqlprefs.dat.backup" "buf.fasl" ".spacemacs" "AndroidStudioProjects/" "Public/" ".cache/" "final1/" "Arduino/" "kll.c" "qtest1/" "MCT/" "maventest2/" "endProdukt/" ".node_repl_history" "test1.java" "SERVER2/" "papap.lisp" ".npm/" "tensa-test/" "linux_kernel/" "crypt/" "Documents/" "file.pl" "RiderProjects/" "app.apk" "DataGripProjects/" "new" "emacs_xah_safe/" "node/" "MAIN_UNTER.png" "hackme1" "test.log" "dotfiles/" ".java/" ".ghidra/" "quicklisp.lisp" "db_ws_22_2023_01_26_23_14_44.txt" ".idea/" "startup.sh" "AVR/" "test.cpp" ".slime-history.eld" ".nv/" ".Xauthority" "finalVersion3.tex" "WebstormProjects/" "ttt.java" "PycharmProjects/" ".emacs~" "papa2/" "maventest1/" "letstalk.safe/" ".cargo/" "kde-backup/" "build-qtest1-Desktop-Debug/" "]~1" "letstalk2/" ".Xmodmap" ".#test.lisp" "sensor.ino" "test.pl" "BST/" "JAVA/" ".gef-2b72f5d0d9f0f218a91cd1ca5148e45923b950d5.py" ".tmux.conf" "JV/" "new.pdf" "Downloads/" "quicklisp/" "Chat-Application/" "#buf.lisp#" "test/" "A/" ".Xresources" "index.html" "patterns/" "letstalk.safe3/" "letstalk/" "sensor.cpp" "papa.c" ".m2/" "emacs-latest-1/" "Android/" "yay/" "SERVER/" "#*message*-20230117-152748#" "hello.cpp" "CL/" "max@10.100.8.148/" "Music/" "vstest1/" "ESP8266/" ".local/" "livenesszeug.png" ".hello.cpp.kak.3K1MDy" "finalApp/" ".shell.pre-oh-my-zsh" "AndroidClient2/" "init.vim.safe" "hackme1.c" ".designer/" "finalServer/" "app_latest_version1/" "buf.lisp~" "password_server/" ".stumpwm.d/" ".slime_paste" "DB_TEST.script" ".gtkrc-2.0" ".vimrc" "test_database.properties" "testxxx" "test.java" "mdatabase/" ".lein/" "pawn.pl" "liste" "AndroidServer/" "letstalk.safe4/" "bieman.txt" "ABG/" "fuck" "ESP8266_RTOS_SDK/" "neovim/" "papa" "NASM/" ".slime/" "database-data.tmp/" "vps" "fridolin" "Templates/" "COMMON_LISP/" ".rustup/" ".nuget/" "hello.py" "MCT_KLAUSUR~" "AndroidClientTest/" ".gradle/" ".zoom/" "database-data.properties" "DS/" "doom-emacs/" ".spacemacs.env" "CLionProjects/" ".bash_history" "emacs_p2/" ".bash_profile" "AB/" "fff.c" "test.tmp/" "emacs_xah_safe3/" "dotTraceSnapshots/" ".emulator_console_auth_token" "maven_test/" ".gnupg/" "db_info.properties" "flasky/" ".Xdefaults" "mygraph1.html" "gcc-emacs/" ".xsession-errors" "database-data.log" "present/" "Number.class" "btree1/" "test.java~" "ivangladius/" "../" "./")
+
+ ("/home/max/.emacs.d/lisp/" (25593 26048 813682 299000) "smex.elc" "./" "ido-vertical-mode.elc" "../" "ido-vertical-mode.el" "smex.el")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

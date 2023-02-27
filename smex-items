@@ -1,0 +1,30 @@
+
+;; ----- smex-history -----
+(
+ kill-ring-save
+ getget
+ copy-region
+ kill-region
+ yank
+ describe-variable
+ jump-to-char-forward
+)
+
+;; ----- smex-data -----
+(
+ (load-init . 14)
+ (byte-compile-file . 2)
+ (byte-recompile-directory . 2)
+ (split-below . 2)
+ (last-buffer . 12)
+ (visit-file-at-point . 3)
+ (eshell . 4)
+ (hellofucker . 3)
+ (jump-to-char-forward . 2)
+ (describe-variable . 1)
+ (yank . 1)
+ (kill-region . 1)
+ (copy-region . 5)
+ (kill-ring-save . 4)
+ (getget . 3)
+)
